@@ -1,3 +1,3 @@
-# eqbot-test.singtel.com
+# clamav.filebox-solution.com
 
 ##subdomain takeover by Encrypter
